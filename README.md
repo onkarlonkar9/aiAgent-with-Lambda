@@ -72,15 +72,6 @@ Make sure your AWS CLI is configured:
 aws configure
 ```
 
-4️⃣ Build and Deploy
-
-Using AWS SAM (Serverless Application Model):
-
-```bash
-sam build
-sam deploy --guided
-```
-
 This will:
 
 Create your Lambda function
@@ -131,3 +122,4 @@ Click Send → You should receive a response from your Lambda AI agent.
   }
 }
 ```
+
